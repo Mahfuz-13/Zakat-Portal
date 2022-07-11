@@ -1,0 +1,8 @@
+/* Adding styles in html */
+/* --------------- */
+
+.header img{
+    width: 100%;
+    height: 699.79px;
+    filter: blur(3px);
+}
