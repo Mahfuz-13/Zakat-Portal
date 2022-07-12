@@ -36,21 +36,21 @@
     font-size: 18px;
     line-height: 28px;
     margin-top: 3px;
+    
 }
 
 
 
 .donate-btn-text{
     width: 119px;
-height: 24px;
+    height: 24px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
 
-font-family: 'Inter';
-font-style: normal;
-font-weight: 600;
-font-size: 20px;
-line-height: 24px;
-
-color: #FFFFFF;
+    color: #FFFFFF;
 }
 
 .donate-btn{
@@ -66,5 +66,55 @@ border-radius: 5px;
 .donate-btn :hover {
     cursor: pointer;
 }
+
+.middle-up{
+    display: flex;
+    justify-content: center;
+    padding: 150px;
+}
+
+.middle-part-up-text{
+    margin-right: 100px;
+    padding: 10px;
+}
+
+.middle-heading-up{
+    font-size: 40px;
+    font-family: 'Inter';
+    
+}
+
+.middle-heading-down{
+    color: #707070;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.explore-btn-up-text{
+    width: 119px;
+    height: 24px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+}
+
+.explore-btn-up{
+width: 160px;
+height: 56px;
+background-color: #EF233C;
+border-radius: 5px;
+}
+
+.explore-btn-up :hover {
+    cursor: pointer;
+}
+
 
 
