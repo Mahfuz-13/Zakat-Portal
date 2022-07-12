@@ -39,6 +39,20 @@
 }
 
 
+
+.donate-btn-text{
+    width: 119px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+
 .donate-btn{
 position: absolute;
 width: 160px;
@@ -48,3 +62,9 @@ top: 550px;
 background-color: #EF233C;
 border-radius: 5px;
 }
+
+.donate-btn :hover {
+    cursor: pointer;
+}
+
+
